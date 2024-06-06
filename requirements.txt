@@ -1,0 +1,7 @@
+ttkbootstrap
+opencv-contrib-python
+numpy
+scikit-image
+scipy
+ultralytics
+Pillow==9.5.0
